@@ -1,0 +1,2 @@
+${CODE_BASE_PATH}/gen_rtl/vfmau/rtl/aq_vfmau_multiplier_53x27_partial_fpga_infer.v
+${CODE_BASE_PATH}/gen_rtl/iu/rtl/multiplier_33x33_partial_fpga_infer.v
